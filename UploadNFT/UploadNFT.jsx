@@ -8,7 +8,7 @@ import { useRouter } from "next/router";
 
 //INTERNAL IMPORT
 import Style from "./Upload.module.css";
-import formStyle from "../AccountPage/Form/Form.module.css";
+import formStyle from "../accountPage/Form/Form.module.css";
 import images from "../img";
 import { Button } from "../Components/componentIndex";
 import { DropZone } from "./UploadNFTIndex";
