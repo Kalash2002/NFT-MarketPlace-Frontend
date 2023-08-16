@@ -34,7 +34,7 @@ const Home = () => {
         paragraph="Discover the most outstanding NFTs in all topics of life."
       />
       <FollowerTab />
-      
+
       <Slider/>
       <Collection />
       <Title
